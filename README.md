@@ -20,11 +20,11 @@ Estimation of cases:
 
 The estimation of cases uses the number of deaths to estimate the real count of cases. The function takes in the following variables:
   
-  1.data
-  2.real death rate
-  3.the assumed timespan between diagnosis and death
-  4.days until cases double (infection rate)
-  5.a decay factor 
+  1. data
+  2. real death rate
+  3. the assumed timespan between diagnosis and death
+  4. days until cases double (infection rate)
+  5. a decay factor 
 
 By taking the current total numbers of death and considering the assumed real death rate, we can calculate the total cases. Since this result is from the past, we need to propagate the result by the infection rate over the assumed timespan between the diagnosis and death into the future. A decay factor can be set to account for a slowing down of cases. 
 This estimation does not properly work for countries that have fewer fatalities or fewer data available on fatalities.
