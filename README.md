@@ -11,8 +11,8 @@ Sections such as the CFR and estimation of cases are highly theoretical, and res
 
 CFR:
 
-The first formula takes deaths as its nominator and uses the sum of cases and recoveries as its denominator.
-The alternative formula uses the increase of cases at time t and divides it through the rise in cases at time t - assumed timespan between diagnosis and death.
+The first formula (cfr2) takes deaths as its nominator and uses the sum of cases and recoveries as its denominator.
+The alternative formula (cfr) uses the increase of cases at time t and divides it through the rise in cases at time t - assumed timespan between diagnosis and death.
 
 Source: https://www.worldometers.info/coronavirus/coronavirus-death-rate/
 
