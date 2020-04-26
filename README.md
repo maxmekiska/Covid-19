@@ -3,7 +3,7 @@
 Covid-19 data visualization
 
 
-This notebook serves to visualize some of the data available to the current Covid 19 outbreak. The main idea was to write the code as flexible possible so that assumptions can be changed individually.
+This notebook serves to visualize some of the data available to the current Covid 19 outbreak. The main idea was to write the code as flexible as possible so that assumptions can be changed individually.
 
 Data on Covid-19: https://github.com/CSSEGISandData/COVID-19
 
